@@ -5,7 +5,7 @@ body #wall #tag-2 {
   display: none;
 }
 
-body #wall div[id ^="slick"] {
+#wall < div[id ^="slick"] {
   display: none;
 }
 
