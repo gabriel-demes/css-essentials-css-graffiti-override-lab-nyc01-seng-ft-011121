@@ -1,7 +1,7 @@
 #wall .tag-1 {
   display: none;
 }
-div[id= tag-2]  {
+#wall div[id= tag-2]  {
   display: none;
 }
 
